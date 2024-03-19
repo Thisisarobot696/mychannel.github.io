@@ -1,0 +1,511 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-chno="9" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICKNITE
+http://cord-cutter.net:8080/barber/barber/38
+#EXTINF:-1  tvg-chno="8" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICKTOONS
+http://cord-cutter.net:8080/barber/barber/36
+#EXTINF:-1  tvg-chno="7" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISNEY XD 2
+http://cord-cutter.net:8080/barber/barber/57420
+#EXTINF:-1  tvg-chno="6" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISNEY XD
+http://cord-cutter.net:8080/barber/barber/75621
+#EXTINF:-1  tvg-chno="5" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISNEY CHANNEL
+http://cord-cutter.net:8080/barber/barber/2206
+#EXTINF:-1  tvg-chno="4" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CARTOON NETWORK 2
+http://cord-cutter.net:8080/barber/barber/53719
+#EXTINF:-1  tvg-chno="3" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CARTOON NETWORK
+http://cord-cutter.net:8080/barber/barber/57356
+#EXTINF:-1  tvg-chno="2" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BOOMERANG 2
+http://cord-cutter.net:8080/barber/barber/53718
+#EXTINF:-1  tvg-chno="13" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",UNIVERSAL KIDS
+http://cord-cutter.net:8080/barber/barber/9235
+#EXTINF:-1  tvg-chno="12" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FAMILY HD
+http://cord-cutter.net:8080/barber/barber/57347
+#EXTINF:-1  tvg-chno="11" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICKELODEON 2
+http://cord-cutter.net:8080/barber/barber/53728
+#EXTINF:-1  tvg-chno="10" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICKELODEON
+http://cord-cutter.net:8080/barber/barber/47349
+#EXTINF:-1  tvg-chno="1" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BOOMERANG
+http://cord-cutter.net:8080/barber/barber/14741
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Adventure Time
+http://cord-cutter.net:8080/barber/barber/178879
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 American Crime Story
+http://cord-cutter.net:8080/barber/barber/178876
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Americana live
+http://cord-cutter.net:8080/barber/barber/123155
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Bach live
+http://cord-cutter.net:8080/barber/barber/123165
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Bar Rescue
+http://cord-cutter.net:8080/barber/barber/178865
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Biography: WWE Legends
+http://cord-cutter.net:8080/barber/barber/178860
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Black Ink Crew Chicago
+http://cord-cutter.net:8080/barber/barber/178859
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Chuck
+http://cord-cutter.net:8080/barber/barber/178845
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 COMEDY MOVIES
+http://cord-cutter.net:8080/barber/barber/121096
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 DRAGON BALL Z
+http://cord-cutter.net:8080/barber/barber/79572
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 DUCK TALES
+http://cord-cutter.net:8080/barber/barber/125636
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 FAMILY GUY
+http://cord-cutter.net:8080/barber/barber/66317
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 FAMILY MATTERS
+http://cord-cutter.net:8080/barber/barber/125634
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 FRESH PRINCE OF BEL-AIR
+http://cord-cutter.net:8080/barber/barber/79559
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 FRIENDS
+http://cord-cutter.net:8080/barber/barber/66407
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 FULL HOUSE
+http://cord-cutter.net:8080/barber/barber/66269
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 GUNSMOKE
+http://cord-cutter.net:8080/barber/barber/140069
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Horror Movies
+http://cord-cutter.net:8080/barber/barber/119429
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 KEEPING UP WITH THE KARDASHIANS
+http://cord-cutter.net:8080/barber/barber/66403
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 LOONEY TUNES
+http://cord-cutter.net:8080/barber/barber/125638
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 Nature Radio live
+http://cord-cutter.net:8080/barber/barber/138067
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 PAW PATROL
+http://cord-cutter.net:8080/barber/barber/66311
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 RICK AND MORTY
+http://cord-cutter.net:8080/barber/barber/66302
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 RIDICULOUSNESS
+http://cord-cutter.net:8080/barber/barber/66397
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 SAVED BY THE BELL
+http://cord-cutter.net:8080/barber/barber/66344
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 SEINFELD
+http://cord-cutter.net:8080/barber/barber/66303
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 SEX IN THE CITY
+http://cord-cutter.net:8080/barber/barber/125972
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 STAR TREK
+http://cord-cutter.net:8080/barber/barber/121115
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 TEEN TITANS GO!
+http://cord-cutter.net:8080/barber/barber/125637
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 THE FIRST 48HRS
+http://cord-cutter.net:8080/barber/barber/66393
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 THE FLINTSTONES
+http://cord-cutter.net:8080/barber/barber/120949
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 THE GOLDEN GIRLS
+http://cord-cutter.net:8080/barber/barber/120948
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 THE SOPRANOS
+http://cord-cutter.net:8080/barber/barber/125971
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 TOM AND JERRY
+http://cord-cutter.net:8080/barber/barber/125635
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/24-7_Customer_logo.png?20160121205752" tvg-shift="" group-title="24/7" :http-referrer="" :http-user-agent="",24/7 UFC
+http://cord-cutter.net:8080/barber/barber/146291
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",A&E
+http://cord-cutter.net:8080/barber/barber/59056
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ADULT SWIM C1
+http://cord-cutter.net:8080/barber/barber/11644
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ADULT SWIM C2
+http://cord-cutter.net:8080/barber/barber/57380
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ADULT SWIM C3
+http://cord-cutter.net:8080/barber/barber/46708
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/640px-AMC_logo_2019.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",AMC
+http://cord-cutter.net:8080/barber/barber/57376
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",AMC 2
+http://cord-cutter.net:8080/barber/barber/18925
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",AMC THRILLERS
+http://cord-cutter.net:8080/barber/barber/66243
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/640px-Animal_Planet_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ANIMAL PLANET
+http://cord-cutter.net:8080/barber/barber/57377
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ANIMAL PLANET 2
+http://cord-cutter.net:8080/barber/barber/17870
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ASPIRE 
+http://cord-cutter.net:8080/barber/barber/21927
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BABY FIRST HD
+http://cord-cutter.net:8080/barber/barber/58765
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BBC AMERICA
+http://cord-cutter.net:8080/barber/barber/20194
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BBC WORLD NEWS
+http://cord-cutter.net:8080/barber/barber/139752
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BET
+http://cord-cutter.net:8080/barber/barber/13702
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BIG TEN HD
+http://cord-cutter.net:8080/barber/barber/9828
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BLAZE
+http://cord-cutter.net:8080/barber/barber/53754
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BLOOMBERG
+http://cord-cutter.net:8080/barber/barber/15158
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BOUNCE XL
+http://cord-cutter.net:8080/barber/barber/48323
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",BRAVO
+http://cord-cutter.net:8080/barber/barber/57379
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="OTHERS" :http-referrer="" :http-user-agent="",E!
+http://cord-cutter.net:8080/barber/barber/57422
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="OTHERS" :http-referrer="" :http-user-agent="",HISTORY
+http://cord-cutter.net:8080/barber/barber/57272
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="OTHERS" :http-referrer="" :http-user-agent="",NAT GEO WILD 2
+http://cord-cutter.net:8080/barber/barber/57450
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CBS NEWS
+http://cord-cutter.net:8080/barber/barber/21259
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CBS SPORTS NETWORK HD
+http://cord-cutter.net:8080/barber/barber/10454
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: ANIMATION
+http://cord-cutter.net:8080/barber/barber/119420
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: BLOCKBUSTERS
+http://cord-cutter.net:8080/barber/barber/119421
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: CLASSIC
+http://cord-cutter.net:8080/barber/barber/119422
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: COMEDY
+http://cord-cutter.net:8080/barber/barber/119423
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: CULT
+http://cord-cutter.net:8080/barber/barber/119424
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: FAMILY
+http://cord-cutter.net:8080/barber/barber/119425
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: GREATS
+http://cord-cutter.net:8080/barber/barber/119426
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: GREATS TWO
+http://cord-cutter.net:8080/barber/barber/119427
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: HISTORICAL
+http://cord-cutter.net:8080/barber/barber/119428
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: HITS
+http://cord-cutter.net:8080/barber/barber/119436
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: MUSICAL
+http://cord-cutter.net:8080/barber/barber/119430
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: MYSTERY
+http://cord-cutter.net:8080/barber/barber/119431
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: PREMIERE
+http://cord-cutter.net:8080/barber/barber/119432
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: ROMANCE
+http://cord-cutter.net:8080/barber/barber/119433
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: SCI-FI
+http://cord-cutter.net:8080/barber/barber/119434
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: THRILLER
+http://cord-cutter.net:8080/barber/barber/119437
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",CINEBOX: WESTERN
+http://cord-cutter.net:8080/barber/barber/119435
+#EXTINF:-1  tvg-chno="" tvg-id="CinemaOne.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="CINEMAX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CINEMAX
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://imgur.com/gallery/aQ5zQz0" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CINEMAX 2
+http://cord-cutter.net:8080/barber/barber/13380
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://imgur.com/gallery/aQ5zQz0" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CINEMAX OUTERMAX
+http://cord-cutter.net:8080/barber/barber/21012
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CNN
+http://cord-cutter.net:8080/barber/barber/47213
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CNN2
+http://cord-cutter.net:8080/barber/barber/57398
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",COMEDY CENTRAL
+http://cord-cutter.net:8080/barber/barber/53660
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",COOKING CHANNEL
+http://cord-cutter.net:8080/barber/barber/107960
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",COTTAGE LIFE HD
+http://cord-cutter.net:8080/barber/barber/47217
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",COURT TV
+http://cord-cutter.net:8080/barber/barber/21092
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CRIME & INVESTIGATION
+http://cord-cutter.net:8080/barber/barber/57256
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CRIME & INVESTIGATION HD
+http://cord-cutter.net:8080/barber/barber/53689
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV COMEDY CHANNEL
+http://cord-cutter.net:8080/barber/barber/57408
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV DRAMA CHANNEL
+http://cord-cutter.net:8080/barber/barber/57254
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV LIFE
+http://cord-cutter.net:8080/barber/barber/116506
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV NEWS CHANNEL HD
+http://cord-cutter.net:8080/barber/barber/57350
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV SCI-FI
+http://cord-cutter.net:8080/barber/barber/57464
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",CTV SCI-FI CHANNEL
+http://cord-cutter.net:8080/barber/barber/57253
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DESTINATION AMERICA 
+http://cord-cutter.net:8080/barber/barber/14222
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY CHANNEL
+http://cord-cutter.net:8080/barber/barber/46720
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY CHANNEL 2
+http://cord-cutter.net:8080/barber/barber/57252
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY CHANNEL 3
+http://cord-cutter.net:8080/barber/barber/53684
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY CHANNEL 4
+http://cord-cutter.net:8080/barber/barber/9811
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY FAMILY
+http://cord-cutter.net:8080/barber/barber/10538
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY LIFE HD
+http://cord-cutter.net:8080/barber/barber/9861
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY SCIENCE
+http://cord-cutter.net:8080/barber/barber/57418
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY SCIENCE 3
+http://cord-cutter.net:8080/barber/barber/53695
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY TURBO
+http://cord-cutter.net:8080/barber/barber/53694
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISCOVERY VELOCITY HD
+http://cord-cutter.net:8080/barber/barber/46212
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISNEY JR
+http://cord-cutter.net:8080/barber/barber/41960
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DISNEY JUNIOR
+http://cord-cutter.net:8080/barber/barber/57349
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: 7NEWS SPOTLIGHT
+http://cord-cutter.net:8080/barber/barber/119438
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: ALL DOCUMENTERY
+http://cord-cutter.net:8080/barber/barber/119439
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: DISCOVERY
+http://cord-cutter.net:8080/barber/barber/119440
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: DW DOCUMENTERY
+http://cord-cutter.net:8080/barber/barber/119441
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: FREE DOCUMENTERY
+http://cord-cutter.net:8080/barber/barber/119442
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://cord-cutter.net:8080/barber/barber/119443
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: FRONTLINE PBS
+http://cord-cutter.net:8080/barber/barber/119444
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: NAT GEO WILD
+http://cord-cutter.net:8080/barber/barber/119447
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: NETFLIX
+http://cord-cutter.net:8080/barber/barber/119448
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: REAL CRIME
+http://cord-cutter.net:8080/barber/barber/119449
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Box_cyan.png/640px-Box_cyan.png" tvg-shift="" group-title="BOX" :http-referrer="" :http-user-agent="",DOCUBOX: REAL WILD
+http://cord-cutter.net:8080/barber/barber/119451
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DOGTV
+http://cord-cutter.net:8080/barber/barber/53539
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",DTOUR HD
+http://cord-cutter.net:8080/barber/barber/57250
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",E! 
+http://cord-cutter.net:8080/barber/barber/11651
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",E! HD
+http://cord-cutter.net:8080/barber/barber/57249
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",EPIX HITS
+http://cord-cutter.net:8080/barber/barber/12744
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ESPN 1 HD
+http://cord-cutter.net:8080/barber/barber/9802
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ESPN 2
+http://cord-cutter.net:8080/barber/barber/2210
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FAMILY JR. HD
+http://cord-cutter.net:8080/barber/barber/57346
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FOOD NETWORK
+http://cord-cutter.net:8080/barber/barber/57247
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FOOD NETWORK HD
+http://cord-cutter.net:8080/barber/barber/7323
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FOX NEWS
+http://cord-cutter.net:8080/barber/barber/47281
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FOX SPORTS 1
+http://cord-cutter.net:8080/barber/barber/1846
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FOX SPORTS 2
+http://cord-cutter.net:8080/barber/barber/1847
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FX HD
+http://cord-cutter.net:8080/barber/barber/57268
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FXM RETRO
+http://cord-cutter.net:8080/barber/barber/10260
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",FXX
+http://cord-cutter.net:8080/barber/barber/57429
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",GINX TV
+http://cord-cutter.net:8080/barber/barber/57431
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/H2_channel_logo.PNG/640px-H2_channel_logo.PNG" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",H2 HD
+http://cord-cutter.net:8080/barber/barber/210450
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO
+http://cord-cutter.net:8080/barber/barber/9264
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO COMEDY
+http://cord-cutter.net:8080/barber/barber/17773
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO FAMILY
+http://cord-cutter.net:8080/barber/barber/17772
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/640px-HBO_Family.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO FAMILY I
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO HD
+http://cord-cutter.net:8080/barber/barber/46713
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO I
+http://cord-cutter.net:8080/barber/barber/57437
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO II
+http://cord-cutter.net:8080/barber/barber/57438
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/640px-HBO_Mundi.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/640px-HBO_Plus_2000.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO SIGNATURE
+http://cord-cutter.net:8080/barber/barber/9266
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/640px-HBO_Signature_Asia.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO SIGNATURE I
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO XTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO ZONE
+http://cord-cutter.net:8080/barber/barber/9265
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO2
+http://cord-cutter.net:8080/barber/barber/9816
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO2 I
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="HBO2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HBO2 II
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HGTV
+http://cord-cutter.net:8080/barber/barber/57273
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HGTV 2
+http://cord-cutter.net:8080/barber/barber/46717
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",HISTORY
+http://cord-cutter.net:8080/barber/barber/47302
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",INVESTIGATION DISCOVERY HD
+http://cord-cutter.net:8080/barber/barber/57442
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",INVESTIGATION DISCOVERY I
+http://cord-cutter.net:8080/barber/barber/46810
+#EXTINF:-1  tvg-chno="" tvg-id="KIX.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/640px-Logo_Lifetime_2020.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",LIFETIME
+http://cord-cutter.net:8080/barber/barber/57271
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",LOGO TV
+http://cord-cutter.net:8080/barber/barber/20862
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",LOVE NATURE HD
+http://cord-cutter.net:8080/barber/barber/47324
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/640px-Magnolia_Network.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MAGNOLIA NETWORK
+http://cord-cutter.net:8080/barber/barber/47258
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MAGNOLIA NETWORK 2
+http://cord-cutter.net:8080/barber/barber/10503
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Makeful_TV.png/640px-Makeful_TV.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MAKEFUL
+http://cord-cutter.net:8080/barber/barber/57270
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MOVIEMAX
+http://cord-cutter.net:8080/barber/barber/13480
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MOVIEPLEX
+http://cord-cutter.net:8080/barber/barber/1829
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MOVIETIME HD
+http://cord-cutter.net:8080/barber/barber/47331
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MTV HD
+http://cord-cutter.net:8080/barber/barber/57368
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MTV2
+http://cord-cutter.net:8080/barber/barber/57447
+#EXTINF:-1  tvg-chno="" tvg-id="MyxPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MYX_new_logo.svg/640px-MYX_new_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",MYX 
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NAT GEO WILD
+http://cord-cutter.net:8080/barber/barber/57280
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NAT GEO WILD 2
+http://cord-cutter.net:8080/barber/barber/53693
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NATIONAL GEOGRAPHIC 2
+http://cord-cutter.net:8080/barber/barber/9277
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NATIONAL GEOGRAPHIC HD
+http://cord-cutter.net:8080/barber/barber/47338
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NBA TV
+http://cord-cutter.net:8080/barber/barber/22995
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NBA TV 2
+http://cord-cutter.net:8080/barber/barber/20073
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICK JR
+http://cord-cutter.net:8080/barber/barber/46710
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",NICK JR 2
+http://cord-cutter.net:8080/barber/barber/9807
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",OUTDOOR CHANNEL
+http://cord-cutter.net:8080/barber/barber/9244
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",OUTSIDE TV
+http://cord-cutter.net:8080/barber/barber/20865
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",OXYGEN
+http://cord-cutter.net:8080/barber/barber/46695
+#EXTINF:-1  tvg-chno="" tvg-id="ROCKAction.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/640px-Blue_ant_extreme_logo.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ROCK Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="ROCKEntertainment.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/640px-Blue_ant_entertainment_logo.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",ROCK Entertainment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SHOWTIME
+http://cord-cutter.net:8080/barber/barber/46214
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SHOWTIME 2
+http://cord-cutter.net:8080/barber/barber/13219
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SHOWTIME EXTREME
+http://cord-cutter.net:8080/barber/barber/13220
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SHOWTIME NEXT
+http://cord-cutter.net:8080/barber/barber/9316
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CINEMA ACTION
+http://cord-cutter.net:8080/barber/barber/35254
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CINEMA ANIMATION
+http://cord-cutter.net:8080/barber/barber/53698
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CINEMA DRAMA
+http://cord-cutter.net:8080/barber/barber/35251
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CINEMA FAMILY
+http://cord-cutter.net:8080/barber/barber/53699
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CINEMA PREMEIR
+http://cord-cutter.net:8080/barber/barber/35256
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY COMEDY
+http://cord-cutter.net:8080/barber/barber/35253
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY CRIME THRILLER
+http://cord-cutter.net:8080/barber/barber/35252
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY GREATS
+http://cord-cutter.net:8080/barber/barber/35249
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY HITS
+http://cord-cutter.net:8080/barber/barber/35255
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY SCI-FI & HORROR
+http://cord-cutter.net:8080/barber/barber/35248
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SKY SCI-FI HD
+http://cord-cutter.net:8080/barber/barber/53663
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",SONY MOVIES HD
+http://cord-cutter.net:8080/barber/barber/2214
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",STARZ CINEMA
+http://cord-cutter.net:8080/barber/barber/17775
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",STARZ EDGE
+http://cord-cutter.net:8080/barber/barber/16143
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",STARZ ENCORE
+http://cord-cutter.net:8080/barber/barber/16141
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",TEEN NICK
+http://cord-cutter.net:8080/barber/barber/140004
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",THE SHOPPING CHANNEL
+http://cord-cutter.net:8080/barber/barber/57370
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",THRILLER MAX
+http://cord-cutter.net:8080/barber/barber/17774
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",TLC
+http://cord-cutter.net:8080/barber/barber/57290
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",TREEHOUSE
+http://cord-cutter.net:8080/barber/barber/57371
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/640px-TruTV_2014.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",TRUTV
+http://cord-cutter.net:8080/barber/barber/10224
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/640px-UFC_Logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",UFC  HD
+http://cord-cutter.net:8080/barber/barber/146293
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",UK-Quest
+http://cord-cutter.net:8080/barber/barber/53682
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US CHARGE!
+http://cord-cutter.net:8080/barber/barber/79594
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Comedy Central (East) (F)
+http://cord-cutter.net:8080/barber/barber/7466
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Cooking Channel
+http://cord-cutter.net:8080/barber/barber/9229
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Discovery Science
+http://cord-cutter.net:8080/barber/barber/20866
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Freeform
+http://cord-cutter.net:8080/barber/barber/13370
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Fuse
+http://cord-cutter.net:8080/barber/barber/46701
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US FX East
+http://cord-cutter.net:8080/barber/barber/46690
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US FXX
+http://cord-cutter.net:8080/barber/barber/46699
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US FYI
+http://cord-cutter.net:8080/barber/barber/9240
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Grit TV
+http://cord-cutter.net:8080/barber/barber/20861
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US HDNET MOVIES
+http://cord-cutter.net:8080/barber/barber/16265
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US HISTORY
+http://cord-cutter.net:8080/barber/barber/46724
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US History Channel
+http://cord-cutter.net:8080/barber/barber/15017
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Lifetime
+http://cord-cutter.net:8080/barber/barber/46714
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Lifetime
+http://cord-cutter.net:8080/barber/barber/9275
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Lifetime Movie
+http://cord-cutter.net:8080/barber/barber/2208
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Lifetime Movies
+http://cord-cutter.net:8080/barber/barber/20863
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US MTV
+http://cord-cutter.net:8080/barber/barber/9818
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US MTV2
+http://cord-cutter.net:8080/barber/barber/9308
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Nat Geo Wild East
+http://cord-cutter.net:8080/barber/barber/11664
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US National Geographic
+http://cord-cutter.net:8080/barber/barber/46722
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount Network
+http://cord-cutter.net:8080/barber/barber/16201
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount Network
+http://cord-cutter.net:8080/barber/barber/46694
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount TV
+http://cord-cutter.net:8080/barber/barber/10464
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Syfy
+http://cord-cutter.net:8080/barber/barber/46685
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Travel Channel East
+http://cord-cutter.net:8080/barber/barber/9315
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US USA Network
+http://cord-cutter.net:8080/barber/barber/10252
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US WE tv
+http://cord-cutter.net:8080/barber/barber/9237
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",WILDBRAINTV
+http://cord-cutter.net:8080/barber/barber/75653
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",WWE NETWORK
+http://cord-cutter.net:8080/barber/barber/146294
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/640px-WWE_official_logo.svg.png" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",WWE NETWORK 2
+http://cord-cutter.net:8080/barber/barber/11645
+#EXTINF:-1  tvg-chno="" tvg-id="" tvg-logo="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",YTV
+http://cord-cutter.net:8080/barber/barber/57372
