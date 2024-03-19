@@ -485,11 +485,11 @@ http://cord-cutter.net:8080/barber/barber/9308
 http://cord-cutter.net:8080/barber/barber/11664
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US National Geographic
 http://cord-cutter.net:8080/barber/barber/46722
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount Network
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/220px-Paramount_Network.svg.png" tvg-chno="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",US PARMOUNT NETWORK 
 http://cord-cutter.net:8080/barber/barber/16201
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount Network
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/220px-Paramount_Network.svg.png" tvg-chno="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",US PARMOUNT NETWORK 2
 http://cord-cutter.net:8080/barber/barber/46694
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Paramount TV
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/220px-Paramount_Network.svg.png" tvg-chno="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",US PARMOUNT NETWORK 3
 http://cord-cutter.net:8080/barber/barber/10464
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Syfy
 http://cord-cutter.net:8080/barber/barber/46685
