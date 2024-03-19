@@ -495,7 +495,7 @@ http://cord-cutter.net:8080/barber/barber/10464
 http://cord-cutter.net:8080/barber/barber/46685
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US Travel Channel East
 http://cord-cutter.net:8080/barber/barber/9315
-#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US USA Network
+#EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" tvg-chno="" tvg-shift="" group-title="PREMIUM" :http-referrer="" :http-user-agent="",US USA NETWORK
 http://cord-cutter.net:8080/barber/barber/10252
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_question_mark_75x75.svg/640px-Who_question_mark_75x75.svg.png" tvg-chno="" tvg-shift="" group-title="11111111" :http-referrer="" :http-user-agent="",US WE tv
 http://cord-cutter.net:8080/barber/barber/9237
